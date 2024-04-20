@@ -1,2 +1,3 @@
 # AIMO-Competition
-Kaggle Competition
+
+
